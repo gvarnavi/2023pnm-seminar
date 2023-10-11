@@ -14,12 +14,12 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "2.4.1",
-    "@docusaurus/preset-classic": "2.4.1",
+    "@docusaurus/core": "^2.4.3",
+    "@docusaurus/preset-classic": "^2.4.3",
     "@gvarnavi/epie-component": "https://api.observablehq.com/@gvarnavi/epie-component@100.tgz?v=3",
-    "@gvarnavi/multislice-4dstem-component": "https://api.observablehq.com/@gvarnavi/multislice-4dstem-component@145.tgz?v=3",
-    "@gvarnavi/magnetic-vector-potential-reconstruction-widget": "https://api.observablehq.com/@gvarnavi/magnetic-vector-potential-reconstruction-widget@17.tgz?v=3",
     "@gvarnavi/flower-sets-component": "https://api.observablehq.com/@gvarnavi/flower-sets-component@63.tgz?v=3",
+    "@gvarnavi/magnetic-vector-potential-reconstruction-widget": "https://api.observablehq.com/@gvarnavi/magnetic-vector-potential-reconstruction-widget@17.tgz?v=3",
+    "@gvarnavi/multislice-4dstem-component": "https://api.observablehq.com/@gvarnavi/multislice-4dstem-component@145.tgz?v=3",
     "@gvarnavi/two-convex-sets-component": "https://api.observablehq.com/@gvarnavi/two-convex-sets-component@51.tgz?v=3",
     "@gvarnavi/two-nonconvex-sets-component": "https://api.observablehq.com/@gvarnavi/two-nonconvex-sets-component@64.tgz?v=3",
     "@mdx-js/react": "^1.6.22",
@@ -33,7 +33,7 @@
     "remark-math": "3"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.4.1"
+    "@docusaurus/module-type-aliases": "^2.4.3"
   },
   "browserslist": {
     "production": [
