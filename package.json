@@ -16,7 +16,7 @@
   "dependencies": {
     "@docusaurus/core": "2.4.1",
     "@docusaurus/preset-classic": "2.4.1",
-    "@gvarnavi/epie-component": "https://api.observablehq.com/@gvarnavi/epie-component@99.tgz?v=3",
+    "@gvarnavi/epie-component": "https://api.observablehq.com/@gvarnavi/epie-component@100.tgz?v=3",
     "@gvarnavi/multislice-4dstem-component": "https://api.observablehq.com/@gvarnavi/multislice-4dstem-component@145.tgz?v=3",
     "@gvarnavi/magnetic-vector-potential-reconstruction-widget": "https://api.observablehq.com/@gvarnavi/magnetic-vector-potential-reconstruction-widget@17.tgz?v=3",
     "@gvarnavi/flower-sets-component": "https://api.observablehq.com/@gvarnavi/flower-sets-component@63.tgz?v=3",

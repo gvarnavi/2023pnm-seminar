@@ -1656,9 +1656,9 @@
     url-loader "^4.1.1"
     webpack "^5.73.0"
 
-"@gvarnavi/epie-component@https://api.observablehq.com/@gvarnavi/epie-component@99.tgz?v=3":
-  version "99.0.0"
-  resolved "https://api.observablehq.com/@gvarnavi/epie-component@99.tgz?v=3#2c9826c3c8f0de7f26f1765acd3e69d730ac8b5a"
+"@gvarnavi/epie-component@https://api.observablehq.com/@gvarnavi/epie-component@100.tgz?v=3":
+  version "100.0.0"
+  resolved "https://api.observablehq.com/@gvarnavi/epie-component@100.tgz?v=3#2216619c98a395adc98d2e6cd599f19f9ad7f88a"
 
 "@gvarnavi/flower-sets-component@https://api.observablehq.com/@gvarnavi/flower-sets-component@63.tgz?v=3":
   version "63.0.0"
